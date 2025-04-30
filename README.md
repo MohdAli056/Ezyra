@@ -24,7 +24,7 @@ Ezyra is a modern Mens Fashion web platform showcasing trending and seasonal col
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ezyra.git
+git clone https://github.com/MohdAli056/Ezyra.git
 ```
 
 2. Navigate to the project directory
