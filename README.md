@@ -40,8 +40,12 @@ cd ezyra
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
 
 ## Ownership
-This project is developed and maintained by [Mohammed Danish](https://github.com/mdanish0320). All rights reserved.
+This project is developed and maintained by [MohdAli056](https://github.com/mdanish0320). All rights reserved.
+
+## License
+
+This project is **free to use** and does not contains any license.
 
 ## Contact
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: (https://github.com/MohdAli056)
+- Email: mohdamjad9490@gmail.com
